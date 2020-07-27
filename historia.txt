@@ -2,4 +2,4 @@ Prueba modificacion
 
 Edwin Pérez
 
-Nuevo cambio : Reemplazo numero por texto.
+Nuevo texto
